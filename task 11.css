@@ -1,0 +1,59 @@
+.sev {
+    background-image: url(https://bootstrapmade.com/content/demo/Folio/assets/img/hero-bg.jpg);
+    background-size: 100% 100%;
+    padding: 10%;
+
+}
+
+#are:hover {
+    cursor: pointer;
+    color: blanchedalmond;
+}
+
+#sed {
+    color: rgb(238, 166, 77);
+}
+
+.ux {
+    border: 10px solid rgb(173, 138, 47);
+    padding-left: 5%;
+    border-top: none;
+    border-right: none;
+}
+
+.sint:hover {
+    cursor: pointer;
+    color: rgb(133, 117, 97);
+}
+
+.view {
+    background-color: rgb(243 241 240);
+}
+
+.ex {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1%;
+    align-items: center;
+}
+.bet:hover{
+    cursor: pointer;
+    background-color: rgb(157, 92, 7);
+    color: white;
+    height: 40px;
+}
+#loce{
+    border: 1px solid rgb(157, 92, 7);
+    border-radius: 50px;
+}
+#loce:hover{
+    background-color: rgb(148, 97, 30);
+    cursor: pointer;
+    border: none;
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
